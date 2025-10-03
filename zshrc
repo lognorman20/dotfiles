@@ -17,3 +17,12 @@ HISTSIZE=10000
 SAVEHIST=10000
 setopt SHARE_HISTORY
 setopt HIST_IGNORE_DUPS
+
+## git
+alias ga='git add'
+alias gc='git commit'
+alias gac='git add . && git commit -m'
+alias gs='git status'
+alias gl='git log --graph --oneline --decorate --color'
+alias gd='git diff'
+alias gco='git checkout'

@@ -81,4 +81,8 @@
         "command": "workbench.action.findInFiles",
         "when": "editorFocus"
     },
+    {
+        "key": "cmd+shift+\\",
+        "command": "workbench.action.splitEditorRight",
+    },
 ]

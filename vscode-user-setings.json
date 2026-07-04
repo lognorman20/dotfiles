@@ -13,7 +13,7 @@
     "editor.minimap.renderCharacters": false,
     "editor.minimap.scale": 2,
     // vim
-    "vim.useSystemClipboard": true,
+    "vim.useSystemClipboard": false,
     "vim.leader": " ",
     // Enable vim-sneak plugin for improved motion
     "vim.sneak": true,

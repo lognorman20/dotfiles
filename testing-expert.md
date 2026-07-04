@@ -7,7 +7,7 @@ description: Expert-level TypeScript testing skill focused on writing high-quali
 
 ## Overview
 
-Write tests that find bugs, document behavior, verify expected functionality, assert intent & correctness of service code, and prevent regressions. Prefer focused, deterministic tests with realistic data and the smallest useful dependency surface.
+Write tests that find bugs, document behavior, verify expected functionality, and prevent regressions. Prefer focused, deterministic tests with realistic data and the smallest useful dependency surface.
 
 Scope: functions, components, unit tests, and integration tests. Avoid black-box e2e unless the user asks for journey testing.
 

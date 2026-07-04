@@ -1,0 +1,4 @@
+shell-integration-features = no-cursor
+font-size = 17
+cursor-style = block
+cursor-style-blink = false
